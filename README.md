@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @dokngu
-- I am studying to learn how to become a developer. I like puzzles.
+- Everybody starts somewhere!
 
 <!---
 dokngu/dokngu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
