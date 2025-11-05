@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @dokngu
-- Everybody starts somewhere!
+- I am a senior student in SwE at UNB Fredericton. Currently I am working on some projects in progress
 
 <!---
 dokngu/dokngu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
